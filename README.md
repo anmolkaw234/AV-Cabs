@@ -6,7 +6,7 @@ When the user signs up, his/her name and mobile number are stored in the databas
 Driver’s name, Mobile number, and Car details are also present in the database.
 FUNCTIONALITIES
 The application’s functional requirements include a good design and a friendly interface.
-● At first the user does the login/signup process if not already logged in.
+- At first the user does the login/signup process if not already logged in.
 ● User sets the pickup location and drop location.
 ● The fare is calculated based on the distance and demand.
 ● The user selects the ride and payment options.
