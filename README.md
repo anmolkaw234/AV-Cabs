@@ -17,16 +17,21 @@ The application’s functional requirements include a good design and a friendly
 - After the driver accepts the ride request and completes the ride, the user is given the option for rating/review.
 
 We will use google maps embedding for the locations. Our Database will have certain constraints like :
-● No user can have the same Mobile numbers.
-● Users can have the same names.
-● A Driver can not be assigned to another customer if he’s completing a ride.
+- No user can have the same Mobile numbers.
+- Users can have the same names.
+- A Driver can not be assigned to another customer if he’s completing a ride.
+  
 When the user signs up, his/her name and mobile number are stored in the database.
 Driver’s name, Mobile number, and Car details are also present in the database.
-● Once the ride is booked, the user can see the location of the driver and the driver details like his mobile number, car details, etc. (user can access the driver details from the database when the ride is booked)
-● Once the driver accepts the ride, he can access the details of the user from the database like his/her phone number, name, location, etc.
-● The company can access the details from the database at all times.
+- Once the ride is booked, the user can see the location of the driver and the driver details like his mobile number, car details, etc. (user can access the driver details from the database when the ride is booked)
+- Once the driver accepts the ride, he can access the details of the user from the database like his/her phone number, name, location, etc.
+- The company can access the details from the database at all times.
+
+
 Tech Stack
-● MySQL ● Python ● Java
-● CSS
-● HTML
-● JavaScript
+- MySQL
+- Python
+- Java
+- CSS
+- HTML
+- JavaScript
