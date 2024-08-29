@@ -7,11 +7,12 @@ Driver’s name, Mobile number, and Car details are also present in the database
 FUNCTIONALITIES
 The application’s functional requirements include a good design and a friendly interface.
 - At first the user does the login/signup process if not already logged in.
-● User sets the pickup location and drop location.
-● The fare is calculated based on the distance and demand.
-● The user selects the ride and payment options.
-● The application then connects the user to the nearest and most suitable driver.
-● After the driver accepts the ride request and completes the ride, the user is given the option for rating/review.
+- User sets the pickup location and drop location.
+- The fare is calculated based on the distance and demand.
+- The user selects the ride and payment options.
+- The application then connects the user to the nearest and most suitable driver.
+- After the driver accepts the ride request and completes the ride, the user is given the option for rating/review.
+
 We will use google maps embedding for the locations. Our Database will have certain constraints like :
 ● No user can have the same Mobile numbers.
 ● Users can have the same names.
