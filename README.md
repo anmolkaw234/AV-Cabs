@@ -1,6 +1,7 @@
 AV CABS
 
 Design of an Online Cab Booking System
+
 The AV-CABS plans to build a database for managing the information about cab bookings by a customer and provide a user-friendly interface. A customer books a ride online and the request is forwarded to the driver so the ride can be booked. The system aims to make booking cabs easy and convenient for customers.
 When the user signs up, his/her name and mobile number are stored in the database.
 Driver’s name, Mobile number, and Car details are also present in the database.
